@@ -206,11 +206,7 @@ img { max-width: 100%; height: auto; }
 .btn-accent:hover { background: var(--accent-light); color: var(--bg-dark); }
 .btn-outline { background: transparent; color: var(--primary-light); border: 2px solid var(--primary); }
 .btn-outline:hover { background: var(--primary); color: white; }
-
-.btn-success { background: var(--success); color: #000; font-weight: 600; border: none; }
-.btn-success:hover { filter: brightness(1.1); }
-
-.btn-danger { background: var(--danger); color: white; border: none; }
+.btn-danger { background: var(--danger); color: white; }
 .btn-danger:hover { background: #DC2626; color: white; }
 .btn-sm { padding: 8px 16px; font-size: 0.8rem; }
 .btn-lg { padding: 16px 32px; font-size: 1rem; }
